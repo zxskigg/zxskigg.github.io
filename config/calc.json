@@ -1,10 +1,15 @@
 {
-	"admob": {
-		"disable": true,
-		"disableUuidList": [
-			"Vj0VTb123S",
-			"1Du3kDeMXd"
-		]
-	},
-	"advice": true
+    "admob": {
+        "disable": true,
+        "disableUuidList": [
+            "Vj0VTb123S",
+            "1Du3kDeMXd"
+        ]
+    },
+    "advice": true,
+    "getIpUrl": {
+        "host": "api.vvhan.com",
+        "path": "/api/getIpInfo",
+        "params": {}
+    }
 }
