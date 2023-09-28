@@ -1,6 +1,6 @@
 {
     "admob": {
-        "disable": true,
+        "disable": false,
         "disableUuidList": [
             "Vj0VTb123S",
             "1Du3kDeMXd"
