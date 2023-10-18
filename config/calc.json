@@ -6,10 +6,11 @@
             "1Du3kDeMXd"
         ]
     },
-    "advice": true,
     "getIpUrl": {
         "host": "api.vvhan.com",
         "path": "/api/getIpInfo",
         "params": {}
-    }
+    },
+    "advice": true,
+    "forceUpgradeVersion": 160
 }
