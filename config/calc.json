@@ -1,8 +1,8 @@
 {
     "getIpUrl": {
-        "host": "2023.ipchaxun.com",
+        "host": "ipinfo.io",
         "path": "",
-        "params": {}
+        "params": {"token": "a4cdcf9891d711"}
     },
     "advice": true,
     "forceUpgradeVersion": 160
