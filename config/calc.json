@@ -1,7 +1,7 @@
 {
     "getIpUrl": {
-        "host": "api.vvhan.com",
-        "path": "/api/getIpInfo",
+        "host": "2023.ipchaxun.com",
+        "path": "",
         "params": {}
     },
     "advice": true,
