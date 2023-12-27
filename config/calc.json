@@ -4,6 +4,9 @@
         "path": "",
         "params": {"token": "a4cdcf9891d711"}
     },
-    "advice": true,
+    "floatMsg": true,
+    "lprRate": 4.2,
+    "baseRate": 4.9,
+    "fundRate": 3.1,
     "forceUpgradeVersion": 160
 }
