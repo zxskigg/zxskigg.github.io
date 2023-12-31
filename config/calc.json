@@ -6,7 +6,10 @@
     },
     "floatMsg": true,
     "lprRate": 4.2,
-    "baseRate": 4.9,
-    "fundRate": 3.1,
+    "baseRate1": 4.35,
+    "baseRate2": 4.75,
+    "baseRate6": 4.9,
+    "fundRate1": 2.6,
+    "fundRate6": 3.1,
     "forceUpgradeVersion": 160
 }
