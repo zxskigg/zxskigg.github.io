@@ -6,7 +6,7 @@
     },
     "showInterAd": true,
     "showBanAd": true,
-    "showOpenAd": true,
+    "showOpenAd": false,
     "floatMsg": true,
     "lprRate1": 3.45,
     "lprRate6": 4.2,
