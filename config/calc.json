@@ -4,6 +4,9 @@
         "path": "",
         "params": {"token": "a4cdcf9891d711"}
     },
+    "showInterAd": true,
+    "showBanAd": true,
+    "showOpenAd": true,
     "floatMsg": true,
     "lprRate1": 3.45,
     "lprRate6": 4.2,
