@@ -4,7 +4,7 @@
         "path": "",
         "params": {"token": "a4cdcf9891d711"}
     },
-    "showInterAd": true,
+    "showInterAd": false,
     "showBanAd": true,
     "showOpenAd": false,
     "floatMsg": true,
