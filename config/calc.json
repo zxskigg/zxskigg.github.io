@@ -7,7 +7,7 @@
     "showInterAd": false,
     "showBanAd": true,
     "showOpenAd": false,
-    "floatMsg": true,
+    "floatMsg": false,
     "lprRate1": 3.45,
     "lprRate6": 4.2,
     "baseRate1": 4.35,
@@ -33,5 +33,5 @@
     "cnBRbx1y": 1.15,
     "cnBRbx3y": 1.35,
     "cnBRbx5y": 1.35,
-    "forceUpgradeVersion": 160
+    "forceUpgradeVersion": 400
 }
