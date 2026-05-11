@@ -1,0 +1,4 @@
+*{box-sizing: border-box;}
+body{margin:0; padding:25px; font-size: 14px; line-height: 25px; word-break: break-word;}
+h1,h2,h3{text-align: center;}
+.date{text-align: right;}
